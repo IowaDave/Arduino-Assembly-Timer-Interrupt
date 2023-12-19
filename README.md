@@ -213,3 +213,15 @@ Elsner, Dean; Fenlason, Jay; et. al. "The gnu Assembler (Sourcery G++ Lite 2010q
 Mazidi, Muhammad Ali; Naimi, Sepehr; Naimi, Sarmad. "The AVR Microcontroller and Embedded Systems Using Assembly and C". Second Edition (Based on ATmega328 and Arduino Boards). 2017. ISBN-13: 978-0997925968. ISBN-10: 0997925965. Appears to be self-published. Previous (first) edition published by Pearson Education, Inc. A very good book, in print at the time of this writing and available for purchase from Amazon and possibly others.
 
 Note that Mazidi and Naimi use the Atmel Studio Assembler which has a different set of directives and style in contrast to the GNU Assembler used by the Arduino IDE. I have Atmel Studio on a Windows machine and intend to explore it someday. When I do, it will be their book that guides me. For the time being, Arduino IDE on my Mac satisfies my amateur requirements.
+
+Here are some links I found helpful, that were still active at the time of writing in December 2023.
+
+* [An online version of the GNU Assembler Manual](https://sourceware.org/binutils/docs/as/index.html)
+
+* [AVR Asm - 101, an introduction written for beginners](https://jaxcoder.com/Post/Index?guid=3cf50808-430f-4d55-992e-856930a33864)
+
+* [Microchip's online AVR Assembler manual. It's written for the Atmel Studio assembler.](https://onlinedocs.microchip.com/pr/GUID-E06F3258-483F-4A7B-B1F8-69933E029363-en-US-2/index.html)
+
+* [A discussion of the Stack Pointer, which might be important. I don't know, yet.](http://www.rjhcoding.com/avr-asm-functions.php)
+
+* [Combining C and assembly source files, from the AVR-LIBC repository at nongnu.org. These are the nice people behind the Arduino Core libraries. They know a thing or two.](https://www.nongnu.org/avr-libc/user-manual/group__asmdemo.html)
